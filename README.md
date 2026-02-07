@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Selva 👋
 
-<!--
-**Selva-777/Selva-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (2nd Year)  
+🐍 Python programming learner  
+💻 Interested in software development and problem-solving  
+🚀 Building projects and improving skills step by step  
 
-Here are some ideas to get you started:
+### 📌 Currently Learning
+- Python
+- Data Structures (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 My Repositories
+- Python function practice
+- Beginner Python projects (coming soon)
